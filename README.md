@@ -8,8 +8,6 @@
 
 ![Joao Pedro Diniz Silva's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoSilvaLEET&show_icons=true&theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoSilvaLEET&layout=compact)](https://github.com/JoaoSilvaLEET/github-readme-stats)
-
 ### Tecnologias que estou acostumado a usar:
 
 <div style="display: inline_block"><br/>
