@@ -1,5 +1,5 @@
-¹³³⁷ Hi, I’m João Pedro Diniz Silva ¹³³⁷
+¹³³⁷ Eaii, eu sou João Pedro Diniz Silva ¹³³⁷
 
-¹³³⁷    I'm 17 years old ¹³³⁷ 
+¹³³⁷    Tenho 17 anos de idade ¹³³⁷ 
 
-¹³³⁷ I'm starting in the area, and I'm looking to improve my knowledge in the area, I started using the computer in my childhood with 6 years old, and it's something I love and I recognized that I have talent in it, at the beginning I I really liked to play, now I want to develop and create projects from basic to the most advanced. ¹³³⁷
+¹³³⁷ Eu sou novo na área, porem estou em busca de aprimorar meus conhecimentos no mesmo, comecei a usar computadores na minha infancia quando tinha apenas 6 anos, como é algo que eu amo decidi trabalhar com isso, pretendo ir do basico até mesmo ao mais avançado. ¹³³⁷
