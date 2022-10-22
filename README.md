@@ -6,4 +6,4 @@
 
 ¹³³⁷ No inicio eu só jogava, agora pretendo usar tudo oque aprendi ao longo desses anos para algo importante ¹³³⁷ 🎮
 
-1337/ LEET
+1337/ LEET 💻
