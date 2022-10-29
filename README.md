@@ -8,7 +8,7 @@
 
 ![Joao Pedro Diniz Silva's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoSilvaLEET&show_icons=true&theme=dark)
 
-### Tecnologias que estou acostumado a usar:
+### Segue a Lista de Tecnologias que estou acostumado a usar abaixo:
 
 <div style="display: inline_block"><br/>
  <img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
